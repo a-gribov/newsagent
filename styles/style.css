@@ -1,0 +1,33 @@
+*
+{
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-color: rgb(202, 202, 202);
+	margin: 0;
+	padding: 0;
+
+}
+.fz10
+{
+font-size: 11px;	
+}
+#toTop {
+	width:100px;
+	height: 40px;
+	border:1px solid #ccc;
+	background:#f7f7f7;
+	text-align:center;
+	padding:5px;
+	position:fixed;
+	bottom:10px; /* отступ кнопки от нижнего края страницы*/
+	right:10px;
+	cursor:pointer;
+	display:none;
+	color:#333;
+	font-family:verdana;
+	font-size:11px;
+	}
